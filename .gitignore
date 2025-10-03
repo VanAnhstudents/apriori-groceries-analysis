@@ -215,12 +215,6 @@ __marimo__/
 *.iml
 *.ipr
 
-# Data files
-*.csv
-*.json
-*.xlsx
-*.pkl
-*.db
 
 # OS
 .DS_Store
